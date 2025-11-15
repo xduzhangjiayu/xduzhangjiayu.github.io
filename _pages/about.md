@@ -32,9 +32,12 @@ My research interests lie in Computer Vision, with a specific focus on Controlla
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/teaser_ditraj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiTraj: Training-free Trajectory Control for Video Diffusion Transformer](https://arxiv.org/abs/2509.21839) (Co-first Author + Project Leader)
+[DiTraj: Training-free Trajectory Control for Video Diffusion Transformer](https://arxiv.org/abs/2509.21839) 
 
-Cheng Lei12†, **Jiayu Zhang2†‡**, Yue Ma3*, Xinyu Wang4, Long Chen2, Liang Tang2, Yiqiang Yan2, Fei Su,1 Zhicheng Zhao1*
+(Co-first Author + Project Leader)
+
+Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma*, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao*
+
 (†Equal Contribution  ‡Project Lead  *Corresponding Author)
 
 [**Project**](https://xduzhangjiayu.github.io/DiTraj_Project_Page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
