@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi there! I'm currently a Researcher at Lenovo Research. I obtained my B.E. in Electronic Information Engineering from Xidian University in 2021, followed by a Master degree (Diplôme d'Ingénieur) in Multimedia Communications from Nantes Université, France in 2022.
-My research interests lie in Computer Vision, with a specific focus on Controllable Video/Image Generation and Editing. I previously have research experience in Video Compression (H265/VP9/AV1 Codec). I’m passionate about AIGC technology, feel free to contact me at <a href="mailto:xduzhangjiayu@163.com">xduzhangjiayu@163.com</a> if my research interests you.
+My research interests lie in Computer Vision, with a specific focus on Controllable Video/Image Generation and Editing. I previously have research experience in Video Compression (H265/VP9/AV1 Codec). I’m passionate about AIGC technology, feel free to contact me at <a href="mailto:xduzhangjiayu@163.com">xduzhangjiayu@163.com</a> if you’d like to collaborate with me.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
