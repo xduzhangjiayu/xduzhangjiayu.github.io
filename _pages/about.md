@@ -58,5 +58,5 @@ Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma\*, Xinyu Wang, Long Chen, Liang Tang
 - *2017.09 - 2021.06*, Bachelor of Engineering (B.E.) in Electronic Information Engineering, Xidian University, Xi'an, China
 
 # 💻 Open-Source Contribution
-- [Diffusers](https://github.com/huggingface/diffusers): The most popular library for diffusion models.
+- [diffusers](https://github.com/huggingface/diffusers): The most popular library for diffusion models.
 - [intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library): A PyTorch acceleration library for the NPU of Intel Core Ultra processors.
