@@ -36,7 +36,7 @@ My research interests lie in Computer Vision, with a specific focus on Controlla
 
 **(Co-first Author + Project Leader)**
 
-Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma*, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao*
+Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma\*, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao\*
 
 (†Equal Contribution  ‡Project Lead  *Corresponding Author)
 
