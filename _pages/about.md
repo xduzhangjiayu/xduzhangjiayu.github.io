@@ -51,9 +51,10 @@ Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma\*, Xinyu Wang, Long Chen, Liang Tang
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 📖 Educations & Experiences
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2022.11 - now*, Researcher, Lenovo Research
 - *2020.09 - 2022.09*, Master's degree (Diplôme d'Ingénieur) in Multimedia Communications, Nantes Université, France
 - *2017.09 - 2021.06*, Bachelor of Engineering (B.E.) in Electronic Information Engineering, Xidian University, Xi'an, China
 
