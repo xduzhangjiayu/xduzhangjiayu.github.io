@@ -34,7 +34,7 @@ My research interests lie in Computer Vision, with a specific focus on Controlla
 
 [DiTraj: Training-free Trajectory Control for Video Diffusion Transformer](https://arxiv.org/abs/2509.21839) 
 
-(Co-first Author + Project Leader)
+**(Co-first Author + Project Leader)**
 
 Cheng Lei†, **Jiayu Zhang†‡**, Yue Ma*, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao*
 
